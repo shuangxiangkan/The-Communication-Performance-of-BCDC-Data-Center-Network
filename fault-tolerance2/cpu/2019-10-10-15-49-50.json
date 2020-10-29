@@ -1,0 +1,66 @@
+[
+      {
+            "current_time": "2019/10/10 15:49:50",
+            "cpu_percent": 19.5
+      },
+      {
+            "current_time": "2019/10/10 15:49:51",
+            "cpu_percent": 4.7
+      },
+      {
+            "current_time": "2019/10/10 15:49:52",
+            "cpu_percent": 14.8
+      },
+      {
+            "current_time": "2019/10/10 15:49:53",
+            "cpu_percent": 6.6
+      },
+      {
+            "current_time": "2019/10/10 15:49:54",
+            "cpu_percent": 3.5
+      },
+      {
+            "current_time": "2019/10/10 15:49:55",
+            "cpu_percent": 2.3
+      },
+      {
+            "current_time": "2019/10/10 15:49:56",
+            "cpu_percent": 3.9
+      },
+      {
+            "current_time": "2019/10/10 15:49:57",
+            "cpu_percent": 4.7
+      },
+      {
+            "current_time": "2019/10/10 15:49:58",
+            "cpu_percent": 2.3
+      },
+      {
+            "current_time": "2019/10/10 15:49:59",
+            "cpu_percent": 4.7
+      },
+      {
+            "current_time": "2019/10/10 15:50:00",
+            "cpu_percent": 2.3
+      },
+      {
+            "current_time": "2019/10/10 15:50:01",
+            "cpu_percent": 2.7
+      },
+      {
+            "current_time": "2019/10/10 15:50:02",
+            "cpu_percent": 13.6
+      },
+      {
+            "current_time": "2019/10/10 15:50:03",
+            "cpu_percent": 2.3
+      },
+      {
+            "current_time": "2019/10/10 15:50:04",
+            "cpu_percent": 1.6
+      },
+      {
+            "current_time": "2019/10/10 15:50:05",
+            "cpu_percent": 4.7
+      }
+]
