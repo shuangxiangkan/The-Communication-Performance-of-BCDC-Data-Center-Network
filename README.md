@@ -12,7 +12,7 @@
 ### The experiment purpose
 Build a network of BCDC data centers from 12 computers. Previous research on this data center network is basically based on theoretical research. Therefore, this project is to test the actual performance of the BCDC network. The python language is mainly used to test the data communication, fault-tolerant performance and disjunction performance of BCDC network. The following is a brief description of the physical and logical structure of the 12 BCDC.
 
-<div align=center><img src="images/data communication.jpg" width = "500" height = "250"  /></div>
+<div align=center><img src="images/data communication.png" width = "500" height = "250"  /></div>
 
 >In this project, you will probably see many folders with the same name. This is a different version of what I was doing at the time. Please refer to the documentation in the folder for details.
 
